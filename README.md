@@ -1,6 +1,6 @@
 # Pokedex
 
-Este é um projeto desenvolvido no aritgo Dev.to
+Este é um projeto desenvolvido com a Digital Innovation One e Ana Beatriz Neri
 
 🏠 Para rodar esta Rest API local você precisa usar mvn clean & mvn install
 
